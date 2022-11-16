@@ -10,7 +10,7 @@ polinomial de grado `n`.
 
 def pregunta_01():
     """
-    Complete el código presentado a continuación.
+    Complete el codigo presentado a continuacion.
     """
     # Importe pandas
     import pandas as pd
